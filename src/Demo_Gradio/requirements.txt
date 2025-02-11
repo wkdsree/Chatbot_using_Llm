@@ -1,0 +1,10 @@
+gradio
+numpy==1.26.4
+openai
+faiss-cpu==1.8.0
+langchain==0.1.11
+transformers==4.38.2
+PyPDF2
+sentence-transformers==2.2.2
+InstructorEmbedding==1.0.1
+tiktoken
